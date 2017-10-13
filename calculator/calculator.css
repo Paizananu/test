@@ -1,0 +1,195 @@
+.test {
+    color: #0000ff;
+}
+
+.calc_pos {
+    position: relative;
+    top: 100px;
+    left: 70px;
+    text-align: center;
+    line-height: 50px;
+}
+
+
+
+.Btn1 {
+    position: absolute;
+    top: 60px;
+    left: 0px;
+    width:50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+
+.Btn2 {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+
+
+.Btn3 {
+    position: absolute;
+    top: 60px;
+    left: 120px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+.Btn4 {
+    position: absolute;
+    top: 60px;
+    left: 180px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+.Btn5 {
+    position: absolute;
+    top: 60px;
+    left: 240px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+.Btn6 {
+    position: absolute;
+    top: 60px;
+    left: 300px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+.Btn7 {
+    position: absolute;
+    top: 60px;
+    left: 360px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+    
+}
+.Btn8 {
+    position: absolute;
+    top: 60px;
+    left:420px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+.Btn9 {
+    position: absolute;
+    top: 120px;
+    left: 0px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+.Btn10{
+    position: absolute;
+    top: 120px;
+    left: 60px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+.Btn11 {
+    position: absolute;
+    top: 120px;
+    left: 120px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+.Btn12 {
+    position: absolute;
+    top: 120px;
+    left: 180px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+.Btn13 {
+    position: absolute;
+    top: 120px;
+    left: 240px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+  .Btn14 {
+    position: absolute;
+    top: 120px;
+    left: 300px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+ .Btn15 {
+    position: absolute;
+    top: 120px;
+    left: 360px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+ .Btn16 {
+    position: absolute;
+    top: 120px;
+    left: 420px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+ .Btn17 {
+    position: absolute;
+    top: 180px;
+    left: 0px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+ .Btn18 {
+    position: absolute;
+    top: 180px;
+    left:60px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+ .Btn19 {
+    position: absolute;
+    top: 180px;
+    left:120px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+ .Btn20 {
+    position: absolute;
+    top: 180px;
+    left: 180px;
+    width: 50px;
+    height: 50px;
+    background-color: #00bfff;
+}
+ .Btn21 {
+    position: absolute;
+    top: 180px;
+    left: 240px;
+    width: 230px;
+    height: 50px;
+    background-color: #00bfff;
+}
+.display1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 470px;
+    height: 50px;
+    background-color: #ffff00;
+ 
+}

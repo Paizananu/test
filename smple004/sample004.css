@@ -1,0 +1,53 @@
+.view_name {
+    color: #0000ff;
+}
+
+.base_pos {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#button {
+    color: #0000ff;
+    width: 200px;
+    height: 200px;
+    background-color: #ff0000;
+}
+#small {
+    /*position: absolute;*/
+    color: #ff0000;
+    width: 50px;
+    height: 50px;
+    /*left: 100px;*/
+    /*top: 100px;*/
+    background-color: #00ff00;
+}
+#small1{
+    /*position: absolute;*/
+    color: #ffffff;
+    width: 100px;
+    height: 100px;
+    left: 500px;
+    top: 400px;
+    background-color: #0000ff;
+}
+#small2{
+    position: absolute;
+    color: #ffffff;
+    width: 100px;
+    height:100px;
+    left: 500px;
+    top:400px;
+    background-color: #0000ff;
+}
+#small3{
+    position: absolute;
+    color: #ffffff;
+    width: 100px;
+    height: 100px;
+    top: 400px;
+    left: 600px;
+    background-color: #0000ff;
+}
+  

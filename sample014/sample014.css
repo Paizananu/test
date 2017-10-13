@@ -1,0 +1,69 @@
+.view_name{
+    color: #0000ff;
+}
+.btn_area{
+    position: absolute;
+    left : 50px;
+    top: 100px;
+    height: 100px;
+    width: 260px;
+    background-color: #dddddd;
+    text-align: center;
+    
+}
+.param1{
+    position: absolute;
+    left:20px;
+    top:20px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+.ope{
+    position: absolute;
+    left: 100px;
+    top: 25px;
+    height: 50px;
+    width: 50px;
+    background-color: #aaaaff;
+    text-align: center;
+}
+.param2{
+    position: absolute;
+    left: 180px;
+    top: 20px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    
+}
+.display_area{
+    position: absolute;
+    left: 50px;
+    top: 250px;
+    height: 170px;
+    width: 300px;
+    background-color: #55ffff;
+    text-align: center;
+
+}
+.result{
+    position: absolute;
+    left: 50px;
+    top: 20px;
+    height: 50px;
+    width: 200px;
+    background-color: #ffff99;
+    text-align: center;
+}
+
+.clear{
+    position: absolute;
+    left: 50px;
+    top: 100px;
+    height: 50px;
+    width: 200px;
+    background-color: #11ff11;
+    text-align: center;
+    
+}

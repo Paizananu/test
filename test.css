@@ -1,0 +1,22 @@
+img {
+    position :absolute;
+    /*left:300px;*/
+
+}
+.overlap{
+    position: absolute;
+    text-align:center;
+    z-index:1;
+    top:150px;
+    left:250px;
+    color:#ffffff;
+}
+.all{
+    position: absolute;
+    left:200px;
+    top: 100px;
+}
+
+body {
+    background-color: #ff0000;
+}

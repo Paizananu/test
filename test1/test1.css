@@ -1,0 +1,85 @@
+.view_name{
+    color: #0000ff;
+}
+.btn_area{
+    position: absolute;
+    left : 50px;
+    top: 100px;
+    height: 140px;
+    width: 330px;
+    background-color: #ffeeaa;
+    text-align: center;
+    
+}
+.btn1{
+    position: absolute;
+    left:20px;
+    top:20px;
+    height: 50px;
+    width: 50px;
+    color:#ffffff;
+    background-color: #ff0000;
+    text-align: center;
+}
+.btn2{
+    position: absolute;
+    left: 100px;
+    top: 20px;
+    height: 75px;
+    width: 75px;
+    color:#ffffff;
+    background-color: #00ff00;
+    text-align: center;
+}
+.btn3{
+    position: absolute;
+    left: 210px;
+    top: 20px;
+    height: 100px;
+    width: 100px;
+    color:#ffffff;
+    background-color:#0000ff;
+    text-align: center;
+    
+}
+.box{
+    position: absolute;
+    left: 50px;
+    top: 300px;
+    height: 50px;
+    width: 50px;
+    background-color: #000000;
+    text-align: center;
+
+}
+.box_red{
+    position: absolute;
+    left: 50px;
+    top: 300px;
+    height: 50px;
+    width: 50px;
+    background-color: #ff0000;
+    text-align: center;
+
+}
+.box_green{
+    position: absolute;
+    left: 50px;
+    top: 300px;
+    height: 75px;
+    width: 75px;
+    background-color: #00ff00;
+    text-align: center;
+
+}
+.box_blue{
+    position: absolute;
+    left: 50px;
+    top: 300px;
+    height: 100px;
+    width: 100px;
+    color: #ffffff;
+    background-color: #0000ff;
+    text-align: center;
+
+}
