@@ -7,9 +7,9 @@ $(function(){
     var display1 = $('#display1');
     var display2 = $('#display2');
     
-    // divBtn1.on('click', function () {
-    //      divBtn1.text('10');
-    // });
+    divBtn1.on('click', function () {
+          divBtn1.text('10');
+     });
     
     // divBtn2.on('click', function () {
     //     divBtn2.text('99');
