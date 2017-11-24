@@ -1,0 +1,216 @@
+.graduation{
+    color: #0000ff;
+}
+.minesweeper{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    width: 310px;
+    height: 310px;
+    background-color: #ffff00;
+}
+
+.box1 {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+
+.box2 {
+    position: absolute;
+    top: 10px;
+    left: 70px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box3 {
+    position: absolute;
+    top: 10px;
+    left: 130px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box4 {
+    position: absolute;
+    top: 10px;
+    left: 190px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box5 {
+    position: absolute;
+    top: 10px;
+    left: 250px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box6 {
+    position: absolute;
+    top: 70px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box7 {
+    position: absolute;
+    top: 70px;
+    left: 70px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box8 {
+    position: absolute;
+    top: 70px;
+    left: 130px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box9 {
+    position: absolute;
+    top: 70px;
+    left: 190px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box10 {
+    position: absolute;
+    top: 70px;
+    left: 250px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box11 {
+    position: absolute;
+    top: 130px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box12 {
+    position: absolute;
+    top: 130px;
+    left: 70px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box13 {
+    position: absolute;
+    top: 130px;
+    left: 130px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box14 {
+    position: absolute;
+    top: 130px;
+    left: 190px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box15 {
+    position: absolute;
+    top: 130px;
+    left: 250px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box16 {
+    position: absolute;
+    top: 190px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box17 {
+    position: absolute;
+    top: 190px;
+    left: 70px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box18 {
+    position: absolute;
+    top: 190px;
+    left: 130px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box19 {
+    position: absolute;
+    top: 190px;
+    left: 190px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box20 {
+    position: absolute;
+    top: 190px;
+    left: 250px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box21 {
+    position: absolute;
+    top: 250px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box22 {
+    position: absolute;
+    top: 250px;
+    left: 70px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box23 {
+    position: absolute;
+    top: 250px;
+    left: 130px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box24 {
+    position: absolute;
+    top: 250px;
+    left: 190px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+.box25 {
+    position: absolute;
+    top: 250px;
+    left: 250px;
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+}
+/*#sweeper_box{*/
+/*    background-color: #c6002b;*/
+/*}*/
